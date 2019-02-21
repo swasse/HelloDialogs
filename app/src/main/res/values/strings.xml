@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HelloDialogs</string>
+    <string name="str_btn_simple_dialog">open a Simple Dialog</string>
+    <string name="str_btn_advanced_dialog">Open an Advanced Dialog</string>
+
+    <string name="str_simple_dialog_title">Alert</string>
+    <string name="str_simple_dialog_description">This is a simple alert dialog that does absolutely nothing</string>
+
+    <string name="str_toast_cancel">A toast to canceled dialogs</string>
+</resources>
